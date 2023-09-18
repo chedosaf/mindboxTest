@@ -1,1 +1,1 @@
-[DEMO](https://mindbox-test-d325fmr85-chedosaf21-gmailcom.vercel.app//)
+[DEMO](https://mindbox-test-f36x1liv3-chedosaf21-gmailcom.vercel.app/)
